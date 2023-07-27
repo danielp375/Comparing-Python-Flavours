@@ -38,7 +38,7 @@ This approach took more time, taking 1.86 seconds.
 <br />
 
 
-# Step3: Usimg Anaconda on Jupyter labs
+# Step3: Using Anaconda on Jupyter labs
 The third approach uses Jupyter labs to execute the program.  
 This approach took the least time of 0.03 seconds.
 <br />
@@ -47,7 +47,7 @@ This approach took the least time of 0.03 seconds.
 <br />
 <br />
 
-# Step4: Usimg PyPy
+# Step4: Using PyPy
 The final approach was by using PyPy.  
 This approach took the most time of 2.41 seconds
 <br />
