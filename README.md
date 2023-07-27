@@ -1,9 +1,16 @@
 # Testing-Flavours-of-Python
-A simple project to test which flavour of python is faster.  
+A simple experiment to test which flavour of python is faster.  
 <br />
 
-# Dataset 
+# Dataset
+We have used a mobile price dataset that shows the price of the mobile phone all with it's characteristics.  
+<br />
 
+# Program
+The program used is one which uses pandas to read the dataset, display it's details and first few columns and finally calculates it's correlation.  
+The time function of time module is used to calculate the time taken to run the program.  
+<br />
+<br />
 
 # Step1: Using cpython
 The first approach is to use the tradition cpython flavour to run the code.  
