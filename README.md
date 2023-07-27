@@ -1,4 +1,4 @@
-# Testing-Flavours-of-Python
+# Comparing-Flavours-of-Python
 A simple experiment to test which flavour of python is faster.  
 <br />
 
